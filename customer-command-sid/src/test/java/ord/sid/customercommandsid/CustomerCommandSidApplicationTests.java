@@ -1,0 +1,13 @@
+package ord.sid.customercommandsid;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class CustomerCommandSidApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
